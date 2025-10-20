@@ -3,3 +3,7 @@ data/*.csv
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# ignore raw csv
+outputs/*.csv
+data/*.csv
